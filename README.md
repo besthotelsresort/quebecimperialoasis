@@ -1,0 +1,2 @@
+# quebecimperialoasis
+Static site: quebecimperialoasis
